@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "inFfXc8JOruGK9kH646m3wz4Ij0gu9clTaepF+g5s/0QZqTrJz2RuPgDjevnTLwK4uHS+xNdlEyC0TUfEbwX5g==",
+  "success": true,
+  "projectFilePath": "E:\\Test1\\Database\\DbCreator\\DbCreator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce596b2076f32f1d81d5b05f1dd66914\\nuget\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce596b2076f32f1d81d5b05f1dd66914\\nuget\\system.data.oledb\\8.0.0\\system.data.oledb.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce596b2076f32f1d81d5b05f1dd66914\\nuget\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce596b2076f32f1d81d5b05f1dd66914\\nuget\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\AppData\\Local\\Temp\\cursor-sandbox-cache\\ce596b2076f32f1d81d5b05f1dd66914\\nuget\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

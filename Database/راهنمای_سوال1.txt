@@ -1,0 +1,43 @@
+================================================================
+  سوال 1 - ساخت پایگاه داده irancell در Microsoft Access
+================================================================
+
+مرحله 1: باز کردن Microsoft Access
+  - Access را اجرا کنید
+  - روی "Blank database" کلیک کنید
+  - نام فایل را irancell بگذارید
+  - محل ذخیره: پوشه Database همین پروژه
+  - دکمه Create را بزنید
+
+مرحله 2: ساخت جدول Customer با Design View
+  - از تب Create روی "Table Design" کلیک کنید
+  - فیلدهای زیر را وارد کنید:
+
+  +-------------+-------------+-----------+
+  | Field Name  | Data Type   | توضیح     |
+  +-------------+-------------+-----------+
+  | mobileNo    | Short Text  | کلید اصلی |
+  | firstName   | Short Text  |           |
+  | lastName    | Short Text  |           |
+  | fatherName  | Short Text  |           |
+  | birthdate   | Date/Time   |           |
+  | meliCode    | Short Text  |           |
+  +-------------+-------------+-----------+
+
+مرحله 3: تنظیم کلید اصلی (بخش ب سوال 1)
+  - روی سطر mobileNo کلیک کنید
+  - از تب Design روی "Primary Key" کلیک کنید
+  - فیلد size برای mobileNo = 11
+  - فیلد size برای meliCode = 10
+
+مرحله 4: ذخیره جدول
+  - Ctrl+S بزنید
+  - نام جدول: Customer
+  - OK
+
+================================================================
+  روش دوم (با SQL):
+  - Create > Query Design > Close
+  - SQL View > متن فایل create_customer_table.sql را paste کنید
+  - Run را بزنید
+================================================================
